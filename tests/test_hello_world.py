@@ -1,5 +1,5 @@
 from unittest import TestCase
-from unittest.mock import Mock, patch
+from unittest.mock import patch
 
 from tmp_great_app.tmp_hello_world import hello_world
 
