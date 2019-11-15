@@ -1,7 +1,7 @@
 from unittest import TestCase
 from unittest.mock import patch
 
-from tmp_great_app.tmp_hello_world import hello_world
+from croissant_back.tmp_great_app.tmp_hello_world import hello_world
 
 
 @patch('builtins.print')
